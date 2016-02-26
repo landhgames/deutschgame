@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Volumes/MAC/Proyectos/iPhone/DeutschGame/build/Debug-iphoneos/SwiftCSV.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Volumes/MAC/Proyectos/iPhone/DeutschGame/build/Pods.build/Debug-iphoneos/SwiftCSV.build/unextended-module.modulemap',
+    }]
+  }]
+}
