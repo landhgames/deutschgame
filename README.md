@@ -1,4 +1,4 @@
-# deutschgame
+# German Vocabulary Game
 Game for German Lerners in Swift
 
 This is a very simple game in Swift which basically helps the players practice their german skils.
